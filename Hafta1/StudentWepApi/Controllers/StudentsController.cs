@@ -10,6 +10,7 @@ namespace StudentWepApi.Controllers
     
     public class StudentsController:ControllerBase
     {
+        //Veri listesi oluşturur.
         private static List<Student> StudentList=new List<Student>
         {
             new Student{
@@ -34,13 +35,14 @@ namespace StudentWepApi.Controllers
             }  
         };
 
+        //Tüm listeyi getirir.
         [HttpGet]
         public List<Student> GetStudents()
         { 
             var list=StudentList.OrderBy(x=>x.ID).ToList<Student>();
             return list;
         }
-
+        //Girilen id'ye göre veri getirir.
         [HttpGet("{id}")]
         public IActionResult GetByID(int id)
         {
@@ -51,9 +53,11 @@ namespace StudentWepApi.Controllers
             }
             return Ok(student);
         }
+        //Listeye yeni veri ekler.
         [HttpPost]
         public IActionResult AddStudent([FromBody] Student newStudent)
         {
+            //Girilen verinin email veya id'si listede var mı diye kontrol eder varsa ekleme işlemi gerçekleştirmez.
             var student=StudentList.SingleOrDefault(x=>x.Email==newStudent.Email||x.ID==newStudent.ID);
             if(student is not null)
             {
@@ -64,14 +68,18 @@ namespace StudentWepApi.Controllers
 
             
         }
+
+        //Girilen id ye göre listede güncelleme işlemi yapar.
         [HttpPut("{id}")]
         public IActionResult UpdateStudent([FromBody] Student updatedStudent, int id)
         {
+            //Listede girilen id mevcut mu diye kontrol eder.
             var student=StudentList.SingleOrDefault(x=>x.ID==id);
             if(student is null)
             {
                 return BadRequest("Öğrenci bulunamadı.");
             }
+            //Düzenleme yapılmak istediğinde varsayılan olarak "string" ifadesi geldiği için eğer bu alan değiştirilmemişse listede olduğu gibi kalmasını sağlar güncellenmez.
             student.Name = updatedStudent.Name != "string" ? updatedStudent.Name : student.Name;
             student.Surname = updatedStudent.Surname != "string" ? updatedStudent.Surname : student.Surname;
             student.Email = updatedStudent.Email != "string" ? updatedStudent.Email : student.Email;
@@ -79,9 +87,11 @@ namespace StudentWepApi.Controllers
 
             
         }
+        //Girilen id ye göre silme işlemi gerçekleşir.
         [HttpDelete("{id}")]
         public IActionResult DeleteStudent(int id)
         {
+            //Listede girilen id mevcut mu diye kontrol eder.
             var student=StudentList.FirstOrDefault(x=>x.ID==id);
             if(student is null)
             {
