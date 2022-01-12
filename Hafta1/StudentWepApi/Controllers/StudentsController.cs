@@ -42,6 +42,7 @@ namespace StudentWepApi.Controllers
             var list=StudentList.OrderBy(x=>x.ID).ToList<Student>();
             return list;
         }
+
         //Girilen id'ye göre veri getirir.
         [HttpGet("{id}")]
         public IActionResult GetByID(int id)
@@ -53,6 +54,21 @@ namespace StudentWepApi.Controllers
             }
             return Ok(student);
         }
+
+        //Girilen ifadeye göre arama yapar
+        [HttpGet("Search/{find}")]
+        public IActionResult GetStudent(string find)
+        {
+            find=find.ToLower();
+            //ad, soyad veya email ile eşleşen kayıtları döndürür.
+            var student =StudentList.Where(x=>x.Name.ToLower()==find || x.Surname.ToLower()==find || x.Email.ToLower()==find).ToList<Student>();
+            if(student.Count==0)
+            {
+                return BadRequest("Aranan öğrenci bulunamadı.");
+            }
+            return Ok(student);
+        }
+
         //Listeye yeni veri ekler.
         [HttpPost]
         public IActionResult AddStudent([FromBody] Student newStudent)
@@ -65,8 +81,6 @@ namespace StudentWepApi.Controllers
             }
             StudentList.Add(newStudent);
             return Ok("Kayıt eklendi.");
-
-            
         }
 
         //Girilen id ye göre listede güncelleme işlemi yapar.
@@ -83,10 +97,9 @@ namespace StudentWepApi.Controllers
             student.Name = updatedStudent.Name != "string" ? updatedStudent.Name : student.Name;
             student.Surname = updatedStudent.Surname != "string" ? updatedStudent.Surname : student.Surname;
             student.Email = updatedStudent.Email != "string" ? updatedStudent.Email : student.Email;
-            return Ok("Güncellendi.");
-
-            
+            return Ok("Güncellendi.");          
         }
+
         //Girilen id ye göre silme işlemi gerçekleşir.
         [HttpDelete("{id}")]
         public IActionResult DeleteStudent(int id)
