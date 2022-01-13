@@ -56,12 +56,16 @@ namespace StudentWepApi.Controllers
         }
 
         //Girilen ifadeye göre arama yapar
-        [HttpGet("Search/{find}")]
-        public IActionResult GetStudent(string find)
+        [HttpGet("search")]
+        public IActionResult GetStudent([FromQuery] string keyword)
         {
-            find=find.ToLower();
+            if(keyword is null)
+            {
+                return BadRequest("Geçersiz arama terimi.");
+            }
+            keyword=keyword.ToLower();
             //ad, soyad veya email ile eşleşen kayıtları döndürür.
-            var student =StudentList.Where(x=>x.Name.ToLower()==find || x.Surname.ToLower()==find || x.Email.ToLower()==find).ToList<Student>();
+            var student =StudentList.Where(x=>x.Name.ToLower()==keyword || x.Surname.ToLower()==keyword || x.Email.ToLower()==keyword).ToList<Student>();
             if(student.Count==0)
             {
                 return BadRequest("Aranan öğrenci bulunamadı.");
@@ -80,7 +84,7 @@ namespace StudentWepApi.Controllers
                 return BadRequest("Öğrenci zaten mevcut.");
             }
             StudentList.Add(newStudent);
-            return Ok("Kayıt eklendi.");
+            return Created("","Kayıt eklendi.");
         }
 
         //Girilen id ye göre listede güncelleme işlemi yapar.
