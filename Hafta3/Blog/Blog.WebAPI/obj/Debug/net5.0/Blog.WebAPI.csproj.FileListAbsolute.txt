@@ -1,0 +1,226 @@
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.AssemblyInfo.cs
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.AssemblyInfo.cs
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.exe
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.deps.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.runtimeconfig.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.runtimeconfig.dev.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\ref\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.DataAccess.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.Domain.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.Business.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.Domain.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\bin\Debug\net5.0\Blog.DataAccess.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\staticwebassets\Blog.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\staticwebassets\Blog.WebAPI.StaticWebAssets.xml
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Blog.WebAPI.styles.css
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.CopyComplete
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\ref\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.genruntimeconfig.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.exe
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.deps.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.runtimeconfig.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.runtimeconfig.dev.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\ref\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.DataAccess.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Domain.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Business.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Domain.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.DataAccess.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\staticwebassets\Blog.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\staticwebassets\Blog.WebAPI.StaticWebAssets.xml
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Blog.WebAPI.styles.css
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.CopyComplete
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\ref\Blog.WebAPI.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.genruntimeconfig.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.exe
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.deps.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.runtimeconfig.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.runtimeconfig.dev.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\ref\Blog.WebAPI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.WebAPI.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Business.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.DataAccess.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Domain.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Business.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.Domain.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\bin\Debug\net5.0\Blog.DataAccess.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.AssemblyReference.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.AssemblyInfoInputs.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.AssemblyInfo.cs
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.CoreCompileInputs.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\staticwebassets\Blog.WebAPI.StaticWebAssets.Manifest.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\staticwebassets\Blog.WebAPI.StaticWebAssets.xml
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Blog.WebAPI.styles.css
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.csproj.CopyComplete
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\ref\Blog.WebAPI.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.WebAPI\obj\Debug\net5.0\Blog.WebAPI.genruntimeconfig.cache

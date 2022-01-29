@@ -1,0 +1,60 @@
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.deps.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\ref\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.DataAccess.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Domain.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.DataAccess.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Domain.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.AssemblyReference.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.AssemblyInfoInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.AssemblyInfo.cs
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.CopyComplete
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\ref\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.runtimeconfig.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.runtimeconfig.dev.json
+C:\Users\Ahmet Şenlik\source\repos\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.genruntimeconfig.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.AssemblyReference.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.AssemblyInfoInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.AssemblyInfo.cs
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Business.deps.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Business.runtimeconfig.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Business.runtimeconfig.dev.json
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\ref\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Business.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.DataAccess.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Domain.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.DataAccess.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\bin\Debug\net5.0\Blog.Domain.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.CopyComplete
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\ref\Blog.Business.dll
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.pdb
+C:\Users\Ahmet Şenlik\source\repos\Blogdasdad\Blog.Business\obj\Debug\net5.0\Blog.Business.genruntimeconfig.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.deps.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.runtimeconfig.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.runtimeconfig.dev.json
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\ref\Blog.Business.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Business.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.DataAccess.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Domain.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.DataAccess.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\bin\Debug\net5.0\Blog.Domain.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.AssemblyReference.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.AssemblyInfoInputs.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.AssemblyInfo.cs
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.CoreCompileInputs.cache
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.csproj.CopyComplete
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\ref\Blog.Business.dll
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.pdb
+D:\Projeler\Bootcamp\01-AhmetSenlik\Hafta3\Blog\Blog.Business\obj\Debug\net5.0\Blog.Business.genruntimeconfig.cache
